@@ -1,4 +1,4 @@
 opencv_python==4.10.0.82
-protobuf==5.27.1
+protobuf==3.20
 python-dotenv==1.0.1
 streamlit==1.32.1
