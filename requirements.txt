@@ -1,4 +1,4 @@
-opencv_python==4.10.0.82
+opencv-python-headless==4.5.5.64
 protobuf==3.20
 python-dotenv==1.0.1
 streamlit==1.32.1
